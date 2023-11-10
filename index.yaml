@@ -9,6 +9,7 @@ entries:
     name: datascientest
     type: application
     urls:
-    - datascientest/datascientest-0.1.0.tgz
+    - urls:
+      - https://patrickveillon.github.io/chart-k8s/datascientest-0.1.0.tgz
     version: 0.1.0
 generated: "2023-11-10T11:36:19.220913906+01:00"
